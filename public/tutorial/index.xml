@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Konstantinos I. Bougioukas</title>
+    <title>Overviews of systematic reviews on Konstantinos I. Bougioukas</title>
     <link>/tutorial/</link>
-    <description>Recent content in Overview on Konstantinos I. Bougioukas</description>
+    <description>Recent content in Overviews of systematic reviews on Konstantinos I. Bougioukas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,14 +13,36 @@
     
     
     <item>
-      <title>Example Page</title>
+      <title>Examples</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
 Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+Tip 2 In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 3 &amp;hellip;
+Tip 4 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Overviews of systematic reviews</title>
+      <link>/tutorial/_index2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/tutorial/_index2/</guid>
+      <description>An overview of systematic reviews (OoSRs) is a study designed to synthesize multiple evidence from existing systematic reviews on a specific domain.There is a range of different types of OoSRs:
+ overviews of intervention reviews overviews of diagnostic test accuracy reviews overviews of reviews of prognosis/prevalence overviews of reviews of risk factors overviews of economic evaluation reviews overviews of qualitative reviews  </description>
+    </item>
+    
+    <item>
+      <title>Overviews of systematic reviews</title>
+      <link>/tutorial/_index3/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/tutorial/_index3/</guid>
+      <description>An overview of systematic reviews (OoSRs) is a study designed to synthesize multiple evidence from existing systematic reviews on a specific domain.There is a range of different types of OoSRs:
+ overviews of intervention reviews overviews of diagnostic test accuracy reviews overviews of reviews of prognosis/prevalence overviews of reviews of risk factors overviews of economic evaluation reviews overviews of qualitative reviews  </description>
     </item>
     
   </channel>
