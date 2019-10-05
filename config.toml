@@ -63,17 +63,17 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "mpougioukas@auth.gr"
   address = "Medical School, Aristotle University of Thessaloniki, University Campus, 54124 Thessaloniki, Greece"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  #phone = "888 888 88 88"
+  #skype = "echo123"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
